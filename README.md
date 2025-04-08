@@ -23,7 +23,7 @@ This project simulates a simplified Shopify store for "Tisso Vision", focusing o
 
 ## Project Structure
 
-Tisso-Vision/
+Tisso-Vision/src
 ├── index.html       # Main product gallery page
 ├── index.js         # JavaScript for the main page
 ├── index.css        # CSS styles for the main page
